@@ -5,8 +5,8 @@
   "job": "Software engineer",
   "birthday": "1998-03-05",
   "country": "Japan",
-  "city": "",
-  "stack": ["Java", "PHP", "Javascript", "TypeScript", "Docker", "AWS", "..."],
+  "city": "Tochigi",
+  "stack": ["Java", "PHP", "JavaScript", "TypeScript", "Docker", "AWS", "..."],
   "interest": ["Tech", "Generative AI", "Work out", "Online game", "..."]
 }
 ```
